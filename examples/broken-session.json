@@ -1,0 +1,1 @@
+[{"action":"navigate","ts":0.0,"url":"https://docs.python.org/3/library/unittest.html"},{"action":"wait","ms":500,"ts":0.5},{"action":"hover","selector":"#search","ts":0.4},{"action":"click","selector":"a[href='/3/library/unittest.mock.html']","ts":1.8}]
